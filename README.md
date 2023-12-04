@@ -1,21 +1,45 @@
-### Hi there 👋
-
-<h3 align="center">Frontend Developer</h3>
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivaylo-stoyanov-360a28159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivaylo-stoyanov-360a28159/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-- 🌱 I’m currently learning Node.js and Express.js
-
-# 📫 Connect with me:
+# Hello and Welcome 👋, I'm Ivaylo Stoyanov
+## Frontend Developer
 
 
-- 🖼️ Motto: Leave it better than you found it.
+- 🌍&nbsp; I am based in Sofia, Bulgaria
+- 🖥️&nbsp; See my portfolio at <a href="https://web-evolution.co/" rel="nofolow">web-evolution.co</a>
+- ✉️&nbsp; You can contact me at i.stoyanov.work@gmail.com
+- 🌱&nbsp; I’m currently learning Node.js and Express.js
+- 🖼️&nbsp; Motto - Leave it better than you found it.
+- 🚀&nbsp; I'm currently working on <a href="https://tasties.netlify.com/" rel="nofolow">tasties.netlify.com </a>
 - I like to: 🧗🚴‍♂️🤿🏂🕺🎮🍜
--->
+
+### 📫 Socials
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivaylo-stoyanov-360a28159/" target="blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility:visible;max-width:100%;">
+</a>
+
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+    width="36" height="36" alt="HTML5" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="36" height="36" alt="CSS3" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="36" height="36" alt="JavaScript" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      width="36" height="36" alt="TypeScript" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      width="36" height="36" alt="Git" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      width="36" height="36" alt="TailwindCSS" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="36" height="36" alt="React" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+      width="36" height="36" alt="Redux" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
+      width="36" height="36" alt="NextJs" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      width="36" height="36" alt="Sass" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="36" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="36" height="36" alt="Figma" style="max-width: 100%;" />
+  
+</p>
