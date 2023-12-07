@@ -15,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility:visible;max-width:100%;">
 </a>
 
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -28,8 +27,6 @@
       width="36" height="36" alt="TypeScript" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
       width="36" height="36" alt="Git" style="max-width: 100%;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36" height="36" alt="TailwindCSS" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
       width="36" height="36" alt="React" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
