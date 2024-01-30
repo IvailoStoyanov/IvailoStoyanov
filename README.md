@@ -1,4 +1,4 @@
-# Hello and Welcome 👋, I'm Ivaylo Stoyanov
+# Hello and Welcome 👋 I'm Ivaylo Stoyanov
 ## Frontend Developer
 
 
