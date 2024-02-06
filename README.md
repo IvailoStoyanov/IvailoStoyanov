@@ -5,7 +5,7 @@
 - 🌍&nbsp; I am based in Sofia, Bulgaria
 - 🖥️&nbsp; See my portfolio at <a href="https://web-evolution.co/" rel="nofolow">web-evolution.co</a>
 - ✉️&nbsp; You can contact me at i.stoyanov.work@gmail.com
-- 🌱&nbsp; I’m currently learning Node.js and Express.js
+- 🌱&nbsp; I’m currently learning Node.js/Express.js and Vite
 - 🖼️&nbsp; Motto - Leave it better than you found it.
 - 🚀&nbsp; I'm currently working on migrating <a href="https://web-evolution.co/" rel="nofolow">web-evolution.co</a> and <a href="https://tasties.netlify.com/" rel="nofolow">tasties.netlify.com</a> to Next 14
 - I like to: 🧗🚴‍♂️🤿🏂🕺🎮🍜
