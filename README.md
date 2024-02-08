@@ -35,8 +35,13 @@
       width="36" height="36" alt="NextJs" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
       width="36" height="36" alt="Sass" style="max-width: 100%;" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="36" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+      width="36" height="36" alt="Sass" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      width="36" height="36" alt="Sass" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      width="36" height="36" alt="Sass" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="36" style="max-width: 100%;" />s
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="36" height="36" alt="Figma" style="max-width: 100%;" />
-  
 </p>
